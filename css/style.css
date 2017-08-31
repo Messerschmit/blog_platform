@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  font-family: 'Old Standard TT', serif;
+  font-size: 1em;
+}
+
+.articles-article{
+  margin-top: 1em;
+  margin-bottom: 1.5em;
+}
+
+.footer{
+  text-align: center;
+}
+
+table{
+  margin: 0 auto;
+  width: 70%;
+}
